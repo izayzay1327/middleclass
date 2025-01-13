@@ -1,2 +1,2 @@
 # middleclass
-https://github.com/kikito/middleclass
+Forked from kikito/middleclass
